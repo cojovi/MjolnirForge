@@ -1,0 +1,14 @@
+
+wasp db start
+
+wasp db migrate-dev
+
+wasp start
+
+wasp db studio
+
+open-saas/gaze/blog/ npm run dev
+
+
+
+cojovi.mma@gmail.com  | pw:bluemoon25
